@@ -36,4 +36,5 @@ The dataset used is the flights dataset from Seaborn. It contains three columns:
  * year: 1949 to 1960.
  * month: January to December.
  * passengers: Total count of passengers (in thousands).
-If you found this analysis helpful, feel free to ⭐ the repo!
+
+**If you found this analysis helpful, feel free to ⭐ the repository!**
